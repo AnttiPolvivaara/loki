@@ -5,7 +5,7 @@ author: "Antti Polvivaara"
 theme: minima
 
 base_url: /lokikirja
-repository: AnttiPolvivaara/lokikirja
+repository: /AnttiPolvivaara/lokikirja
 
 # Minima social links
 github_username: AnttiPolvivaara
