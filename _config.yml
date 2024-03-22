@@ -28,9 +28,4 @@ include:
     - _pages
 
 exclude: 
-    - .gitignore
-    - docker-compose.yml
-    - Gemfile
-    - Gemfile.lock
-    - LICENSE
     - README.md
