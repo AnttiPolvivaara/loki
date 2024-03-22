@@ -1,3 +1,36 @@
+title: My blog
+description: My very nice blog
+author: "Antti Polvivaara"
+
 theme: minima
-title: Antti Polvivaara
-description: Bookmark this to keep an eye on my project updates!
+
+base_url: /lokikirja
+repository: AnttiPolvivaara/lokikirja
+
+# Minima social links
+github_username: AnttiPolvivaara
+linkedin_username: LINKEDIN
+rss: rss
+
+# Minima: show excerpts in the frontpage
+show_excerpts: true
+
+minima:
+  date_format: "%d-%m-%Y"
+
+# Minima: custom header links
+header_pages:
+  - _pages/frontpage.md
+  - _pages/about.md
+  - _pages/archive.md
+
+include:
+    - _pages
+
+exclude: 
+    - .gitignore
+    - docker-compose.yml
+    - Gemfile
+    - Gemfile.lock
+    - LICENSE
+    - README.md
