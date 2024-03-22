@@ -1,6 +1,6 @@
 ---
 title: "First post"
-date: ###
+date: 22-03-2024
 layout: post
 ---
 
