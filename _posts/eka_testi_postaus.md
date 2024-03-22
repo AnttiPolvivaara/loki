@@ -4,7 +4,7 @@ date: ###
 layout: post
 ---
 
-This is ** first post**!! I can write
+This is ** first post** I can write
 
 * unnumbered
 * fancy
