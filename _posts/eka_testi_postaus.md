@@ -1,10 +1,10 @@
 ---
-title: "Tutorial I: my first post"
-date: 2020-03-18
+title: "First post"
+date: ###
 layout: post
 ---
 
-This is **my very first post**!! I can write
+This is ** first post**!! I can write
 
 * unnumbered
 * fancy
