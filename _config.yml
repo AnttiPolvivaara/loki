@@ -11,7 +11,6 @@ repository: /AnttiPolvivaara/lokikirja
 github_username: AnttiPolvivaara
 twitter_username: APolvivaara
 linkedin_username: anttipolvivaara
-rss: rss
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
