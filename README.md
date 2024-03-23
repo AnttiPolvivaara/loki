@@ -1,1 +1,1 @@
-# :D
+# tests for github page init
