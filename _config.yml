@@ -1,5 +1,5 @@
 title: Log
-description: All my links
+description: This site is intended to work as an personal log and portfolio for my current projects and allow ease of access to the many links that are connected to me one way or another.
 author: "Antti Polvivaara"
 
 theme: minima
@@ -11,6 +11,7 @@ repository: /AnttiPolvivaara/lokikirja
 github_username: AnttiPolvivaara
 twitter_username: APolvivaara
 linkedin_username: antti-polvivaara-10b973174
+google_scholar: Ssxk8acAAAAJ&hl=en
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
