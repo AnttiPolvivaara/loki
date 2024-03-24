@@ -11,7 +11,7 @@ repository: /AnttiPolvivaara/lokikirja
 github_username: AnttiPolvivaara
 twitter_username: APolvivaara
 linkedin_username: anttipolvivaara
-platform: google_scholar, user_url: "https://scholar.google.com/citations?user=Ssxk8acAAAAJ&hl=en" 
+google_scholar: "https://scholar.google.com/citations?user=Ssxk8acAAAAJ&hl=en" 
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true
