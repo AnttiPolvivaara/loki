@@ -8,7 +8,7 @@ title: About me
 <img src="assets/kuvaAP.jpg" alt="Your Image Description" width="150" height="150">
 
 ##### antti.polvivaara@uef.fi
-##### Location: *Helsinki, Pori, Finland*
+##### Location: *Finland - Helsinki, Pori*
 
 ### Education
 
@@ -36,13 +36,13 @@ title: About me
 - First author. Accepted 1/2024
 - DOI: [https://doi.org/10.1016/j.rse.2024.114019](https://doi.org/10.1016/j.rse.2024.114019)
 
-#### *Airborne dual-wavelength waveform LiDAR improves species classification accuracy of boreal broadleaved and coniferous trees*, Silva Fennica
-- Second author. Accepted 1/2023
-- DOI: [https://doi.org/10.14214/sf.22007](https://doi.org/10.14214/sf.22007)
-
 #### *Influence of phenology on waveform features in deciduous and coniferous trees in airborne LiDAR*, Remote Sensing of Environment
 - Second author. Accepted 5/2023
 - DOI: [https://doi.org/10.1016/j.rse.2023.113618](https://doi.org/10.1016/j.rse.2023.113618)
+
+#### *Airborne dual-wavelength waveform LiDAR improves species classification accuracy of boreal broadleaved and coniferous trees*, Silva Fennica
+- Second author. Accepted 1/2023
+- DOI: [https://doi.org/10.14214/sf.22007](https://doi.org/10.14214/sf.22007)
 
 
 ### Distinctions
