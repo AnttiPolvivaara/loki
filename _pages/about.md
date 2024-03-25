@@ -9,23 +9,23 @@ title: About me
 
 ##### antti.polvivaara@uef.fi
 
-- *Location:* Helsinki, Pori, Finland
+- Location: *Helsinki, Pori, Finland*
 
 ### Education
 
 #### PhD, University of Eastern Finland
-*Joensuu* - *ongoing*
+*Joensuu - ongoing*
 
 - Doctoral Programme in Forests and Bioresource (FORES)
 
 #### Master of Engineering (Geoinformatics), Aalto University
-*Espoo* - *ongoing*
+*Espoo - ongoing*
 
 - Major: Geoinformatics
 - Minor: Computer Science
 
 #### Master of Science (Agriculture and Forestry), University of Helsinki
-*Helsinki* - *09/2021*
+*Helsinki - 09/2021*
 
 - Major: Forest Ecology and Management, Forest Resource Management and Geoinformatics
 - Thesis/Project: *Multitemporal LiDAR waveform features in forest trees – influence of phenology, tree species and scan geometry*
