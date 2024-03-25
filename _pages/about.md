@@ -8,8 +8,7 @@ title: About me
 <img src="assets/kuvaAP.jpg" alt="Your Image Description" width="150" height="150">
 
 ##### antti.polvivaara@uef.fi
-
-- Location: *Helsinki, Pori, Finland*
+##### Location: *Helsinki, Pori, Finland*
 
 ### Education
 
