@@ -9,11 +9,6 @@ title: About me
 
 - **Location:** Helsinki, Pori, Finland
 
-## Objective
-
-Briefly introduce yourself and describe your career objectives and goals.
-
-
 ## Education
 
 ### PhD, University of Eastern Finland
