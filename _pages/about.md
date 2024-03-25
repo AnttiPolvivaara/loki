@@ -5,7 +5,7 @@ title: About me
 ---
 
 #### Antti Polvivaara
-<img src="assets/kuvaAP.jpg" alt="Your Image Description" width="100" height="100">
+<img src="assets/kuvaAP.jpg" alt="Your Image Description" width="150" height="150">
 
 ##### antti.polvivaara@uef.fi
 
@@ -28,7 +28,7 @@ title: About me
 *Helsinki* - *09/2021*
 
 - Major: Forest Ecology and Management, Forest Resource Management and Geoinformatics
-- Thesis/Project: **Multitemporal LiDAR waveform features in forest trees – influence of phenology, tree species and scan geometry**
+- Thesis/Project: *Multitemporal LiDAR waveform features in forest trees – influence of phenology, tree species and scan geometry*
 
 
 ### Scientific publications
