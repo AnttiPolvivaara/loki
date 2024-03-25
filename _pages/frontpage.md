@@ -11,8 +11,9 @@ My research intrests are related very broadly on vegetation mapping using differ
 
 This site is an experiment on couple of things:
 
-1. It serves as an log of all the projects and works that I am part of
+1. It serves as an log of all the projects and works that I am part of. I  aim to write simplistic illustrations about the works and their conclusions rather than re-writing the articles/project descriptions
 2. It works as homepage and professional portfolio. Please see the [About me](about.md) section.
-3. Experiment on building and hosting a website for free. This site has been built using Github pages with the defaul "Minima" theme. I have no previous experience on working with html and css so this a study on that aswell.
+3. A place where I can write my thoughts about interesting (to me) topics related to my work
+4. Experiment on building and hosting a website for free. This site has been built using Github pages with the defaul "Minima" theme. I have no previous experience on working with html and css so this a study on that aswell.
 
 Please check out below the stuff I have been up to!
