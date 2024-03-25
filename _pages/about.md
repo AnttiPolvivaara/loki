@@ -5,7 +5,8 @@ title: About me
 ---
 
 #### Antti Polvivaara
-![kuva](assets/kuvaAP.jpg)
+<img src="assets/kuvaAP.jpg" alt="Your Image Description" width="100" height="100">
+
 ##### antti.polvivaara@uef.fi
 
 - *Location:* Helsinki, Pori, Finland
